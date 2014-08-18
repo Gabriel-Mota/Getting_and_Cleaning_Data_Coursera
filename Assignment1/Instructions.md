@@ -1,6 +1,6 @@
 Getting-CleanData_Week3
 =======================
-If the link of the dataset presented in the README.md file does not work, you can download the data from here:  
+If the link of the dataset presented in README.md does not work, you can download the data from here:  
 [UCI HAR Dataset](https://www.dropbox.com/s/rp9l8yrafajjx7p/UCI%20HAR%20Dataset.zip?dl=0) [61MB]
 
 The script needs to be placed in the root folder of the datasets.
